@@ -45,6 +45,13 @@ Tasks live in plain markdown in this repo. Text files are the source of truth �
 not an app, not a database, not conversation history. Anything worth
 remembering gets written down here, or it does not exist.
 
+- `inbox.md` — raw capture, append-only, processed to empty
+- `tasks.md` — deferred actions, each with a date or trigger
+- `waiting.md` — delegated, with who and since when
+- `notes/` — filed reference material
+
+Everything enters through `inbox.md`. Capture is never the moment to organize.
+
 ## Procedures live in Skills
 
 This file is configuration, not instructions. Repeatable workflows — running a
