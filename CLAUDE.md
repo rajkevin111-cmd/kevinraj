@@ -49,6 +49,7 @@ remembering gets written down here, or it does not exist.
 - `tasks.md` — deferred actions, each with a date or trigger
 - `waiting.md` — delegated, with who and since when
 - `notes/` — filed reference material
+- `days/YYYY-MM-DD.md` — the plan for a given day, and what came of it
 
 Everything enters through `inbox.md`. Capture is never the moment to organize.
 
